@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2551436d.css",
+    "main.js": "/static/js/main.1739cb71.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/—Pngtree—rupiah currency in the form_5505819.png": "/static/media/—Pngtree—rupiah currency in the form_5505819.5436dd513cbed821d749.png",
+    "static/media/bg.png": "/static/media/bg.d8c586deaebe6835f966.png",
+    "index.html": "/index.html",
+    "static/media/LogPage": "/static/media/LogPage.72b209dca358dc66cf97",
+    "main.2551436d.css.map": "/static/css/main.2551436d.css.map",
+    "main.1739cb71.js.map": "/static/js/main.1739cb71.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2551436d.css",
+    "static/js/main.1739cb71.js"
+  ]
+}
